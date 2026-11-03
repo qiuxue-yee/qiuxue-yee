@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ray.
 
-<!--
-**qiuxue-yee/qiuxue-yee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are two projects I've been working on:
 
-Here are some ideas to get you started:
+### Bamboo Flute Customizer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An interactive 3D tool for exploring a bamboo flute, adding patterns, and
+exporting customized models. Available in English and Chinese.
+
+[Try the customizer](https://qiuxue-yee.github.io/bamboo-flute-customizer/) ·
+[View the source](https://github.com/qiuxue-yee/bamboo-flute-customizer)
+
+### Physics Bowl Study Collection
+
+An independent physics study guide and problem set with worked examples,
+solutions, and links between related topics.
+
+[Explore the collection](https://qiuxue-yee.github.io/Physics-Bowl-CheatSheets-prepmaterial/) ·
+[View the source](https://github.com/qiuxue-yee/Physics-Bowl-CheatSheets-prepmaterial)
